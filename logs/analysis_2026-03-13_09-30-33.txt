@@ -1,0 +1,39 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time    open    high     low   close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI     MACD  MACD_signal      ATR
+2026-03-13 05:30:00 5110.41 5112.39 5106.24 5110.77         2433       4            0 5110.138392 5110.260595 55.132027 3.185312     3.226131 7.363571
+2026-03-13 05:45:00 5110.77 5116.71 5110.45 5115.64         2133       4            0 5110.662355 5110.471552 59.031694 3.206106     3.222126 7.510000
+2026-03-13 06:00:00 5115.65 5117.92 5112.50 5114.26         1969       4            0 5111.004988 5110.620118 56.229284 3.075775     3.192856 7.572143
+2026-03-13 06:15:00 5114.26 5114.43 5103.76 5105.51         2632       4            0 5110.481656 5110.419721 42.403544 2.240607     3.002406 7.754286
+2026-03-13 06:30:00 5105.51 5106.74 5104.68 5104.76          160       4            0 5109.936736 5110.197772 34.875662 1.500910     2.702107 7.375000
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+Timeframe Alignment: H1 va M15 bir tomonda. Bearish alignment kuchli.
+RSI: 34.88
+RSI Status: Bearish momentum
+MACD Status: Bearish MACD momentum
+Support: 5094.70
+Resistance: 5128.53
+ATR: 7.38
+Price Location: Narx support va resistance oralig'ida.
+Entry Zone: Bearish setup: narx EMA20/resistance zonasiga yaqin.
+Summary: H1 va M15 bearish alignmentda. RSI va MACD ham bearish. Narx support ga yaqin, breakdown xavfi bor.
+Trade Comment: Sell setup tayyor. Trend, momentum va candle confirmation sell tomonida.
+Setup Status: READY SELL
+Signal Strength: STRONG
+Trade Plan: Sell setup tayyor. Entry, SL va TP asosida sell ko'rib chiqilishi mumkin.
+Final Signal: WAIT
+Alert Message: ALERT: Setup bor, lekin risk/reward yoki tasdiq yetarli emas.
+Suggested Entry: 5104.76
+Suggested Stop Loss: 5132.22
+Suggested Take Profit: 5094.7
+Risk/Reward Ratio: N/A
+Risk/Reward Ratio: N/A

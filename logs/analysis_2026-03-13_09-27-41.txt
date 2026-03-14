@@ -1,0 +1,39 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time    open    high     low   close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI     MACD  MACD_signal      ATR
+2026-03-13 05:15:00 5110.75 5114.00 5108.29 5110.41         3177       4            0 5110.021772 5109.491178 61.346542 3.747747     3.436441 7.699286
+2026-03-13 05:30:00 5110.41 5112.39 5106.24 5110.77         2433       4            0 5110.093032 5109.541328 55.132027 3.314632     3.412079 7.363571
+2026-03-13 05:45:00 5110.77 5116.71 5110.45 5115.64         2133       4            0 5110.621315 5109.780492 59.031694 3.326013     3.394866 7.510000
+2026-03-13 06:00:00 5115.65 5117.92 5112.50 5114.26         1969       4            0 5110.967856 5109.956159 56.229284 3.186941     3.353281 7.572143
+2026-03-13 06:15:00 5114.26 5114.43 5103.76 5107.17         2343       4            0 5110.606155 5109.846898 43.744049 2.476079     3.177840 7.754286
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bullish (Ko'tarilish)
+Timeframe Alignment: H1 bearish, M15 bullish. Bu counter-trend rebound bo'lishi mumkin.
+RSI: 43.74
+RSI Status: Bearish momentum
+MACD Status: Bearish MACD momentum
+Support: 5091.97
+Resistance: 5128.53
+ATR: 7.75
+Price Location: Narx support va resistance oralig'ida.
+Entry Zone: Bullish setup: narx EMA20/support zonasiga yaqin.
+Summary: H1 bearish, lekin M15 tiklanmoqda. Bu counter-trend rebound bo'lishi mumkin.
+Trade Comment: Hozircha aniq trade setup yo‘q. Shoshilmasdan kutish kerak.
+Setup Status: NO TRADE
+Signal Strength: WEAK
+Trade Plan: Hozircha trade ochish tavsiya etilmaydi.
+Final Signal: WAIT
+Alert Message: ALERT: Hozircha signal kuchsiz.
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A
+Risk/Reward Ratio: N/A

@@ -1,0 +1,39 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time    open    high     low   close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI     MACD  MACD_signal      ATR
+2026-03-13 05:00:00 5112.06 5115.90 5109.17 5110.75         4328       4            0 5110.180893 5112.439909 63.872429 3.726428     2.560406 7.761429
+2026-03-13 05:15:00 5110.75 5114.00 5108.29 5110.41         3177       4            0 5110.202713 5112.360305 61.346542 3.231895     2.694704 7.699286
+2026-03-13 05:30:00 5110.41 5112.39 5106.24 5110.77         2433       4            0 5110.256740 5112.297940 55.132027 2.836328     2.723029 7.363571
+2026-03-13 05:45:00 5110.77 5116.71 5110.45 5115.64         2133       4            0 5110.769432 5112.429001 59.031694 2.882578     2.754939 7.510000
+2026-03-13 06:00:00 5115.65 5117.92 5112.50 5114.27         1961       4            0 5111.102819 5112.501197 56.240250 2.776677     2.759286 7.572143
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+Timeframe Alignment: H1 va M15 bir tomonda. Bearish alignment kuchli.
+RSI: 56.24
+RSI Status: Bullish momentum
+MACD Status: Bullish MACD momentum
+Support: 5090.48
+Resistance: 5128.53
+ATR: 7.57
+Price Location: Narx support va resistance oralig'ida.
+Entry Zone: Bearish setup: narx EMA20/resistance zonasiga yaqin.
+Summary: M15 trend bearish, lekin momentum tiklanishga urinmoqda.
+Trade Comment: Sell setup shakllanmoqda. Resistance/EMA zonasi yaqinida kuzatish kerak.
+Setup Status: SELL WATCH
+Signal Strength: MEDIUM
+Trade Plan: Sell setup shakllanmoqda. Resistance/EMA yaqinida kuzatish kerak.
+Final Signal: WAIT
+Alert Message: ALERT: Sell setup kuzatilyapti.
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A
+Risk/Reward Ratio: N/A
